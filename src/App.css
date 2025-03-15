@@ -1,0 +1,98 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #800080;
+    min-height: 100vh;
+    margin: 0;
+    border: 5px solid #fff;
+
+}
+
+body1{
+    border-color: white;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: thistle;
+    overflow: auto;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    min-height: 70vh;
+}
+
+.innerbox {
+    border: 1px solid black;
+    padding: 3px;
+    max-width: 450px;
+    width: 100%;
+}
+
+input {
+    height: 20px;
+    width: 70%;
+    border: none;
+    border-bottom: 2px solid black;
+}
+
+button {
+    background-color: purple;
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+button2 {
+    background-color: purple;
+    color: white;
+    font-size: 30px;
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.innerbox>h4 {
+    margin: 0;
+    text-align: center;
+    background-color: purple;
+    color: white;
+    height: 30px;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.list {
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+}
+
+.box1 {
+    display: flex;
+    justify-content: center;
+}
+
+.box2 {
+    display: flex;
+}
+
+.box2 .new-item-field {
+    flex-grow: 1;
+}
+
+.box2 .new-item-field input {
+    width: 95%;
+}
+
+.down{
+    background-color: purple;
+}
