@@ -14,6 +14,9 @@ A simple and user-friendly To-Do List application built with React. This app all
 🔥 React Hooks (useState, useEffect)
 
 📷 Screenshots
+![image](https://github.com/user-attachments/assets/fb0bf306-c3b5-442e-bf59-0bd20ac3fda1)
+![WhatsApp Image 2025-03-23 at 20 39 07_31c03357](https://github.com/user-attachments/assets/97eb4cce-6321-48fe-8662-08dd8c91c155)
+
 
 
 🏗️ Installation
