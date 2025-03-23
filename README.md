@@ -31,7 +31,6 @@ deleting a task
 🏗️ Installation
 
 Clone this repository:
-
 git clone https://github.com/mushrifa-hussain/To-Do-List-Application.git  
 cd To-Do-List-Application.app
 
@@ -41,14 +40,17 @@ npm install
 Start the development server:
 npm start  
 
-🎯 Usage
+🎯 Usage: 
+
 Type a new task in the input field and click on the add button.
 Click the edit button to modify a task.
 Click the save button to save a task.
 Click the delete button to remove a task.
 
-📜 License
+📜 License:
+
 This project is open-source and available under the MIT License.
 
-🌟 Show Your Support
+🌟 Show Your Support: 
+
 If you like this project, give it a ⭐ on GitHub!
