@@ -14,30 +14,31 @@ A simple and user-friendly To-Do List application built with React. This app all
 🔥 React Hooks (useState, useEffect)
 
 📷 Screenshots
+
+adding tasks
 ![image](https://github.com/user-attachments/assets/fb0bf306-c3b5-442e-bf59-0bd20ac3fda1)
+
+editing a task
 ![WhatsApp Image 2025-03-23 at 20 39 07_31c03357](https://github.com/user-attachments/assets/97eb4cce-6321-48fe-8662-08dd8c91c155)
 
+saving the task
+![WhatsApp Image 2025-03-23 at 20 39 17_462ccab1](https://github.com/user-attachments/assets/63bf4723-758e-4f8d-97a4-fa6711aa6b2f)
+
+deleting a task
+![WhatsApp Image 2025-03-23 at 20 39 26_1ae42539](https://github.com/user-attachments/assets/b02175a5-8538-451b-9bae-8816749eb177)
 
 
 🏗️ Installation
+
 Clone this repository:
 
-sh
-Copy
-Edit
-git clone https://github.com/yourusername/todo-list-app.git  
-cd todo-list-app  
+git clone https://github.com/mushrifa-hussain/To-Do-List-Application.git  
+cd To-Do-List-Application.app
+
 Install dependencies:
-
-sh
-Copy
-Edit
 npm install  
-Start the development server:
 
-sh
-Copy
-Edit
+Start the development server:
 npm start  
 
 🎯 Usage
